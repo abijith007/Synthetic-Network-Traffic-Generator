@@ -14,13 +14,16 @@ This repository contains a series of Jupyter notebooks demonstrating the use of 
 
 ### Prerequisites
 
-To run these notebooks, you will need Python 3.8 or later with the following packages installed:
-- pandas
-- numpy
-- torch
-- ctgan
-- matplotlib
-- seaborn
+To run these notebooks, you will need Python 3.9 with the following packages installed, this is available in `requirements.txt`:
+- tensorflow==2.10.1
+- keras==2.10.0
+- pandas==2.2.2
+- numpy==1.26.4
+- scikit-learn==1.4.2
+- scipy==1.13.0
+- netron==7.6.4
+- matplotlib==3.8.4
+- ip2geolocation
 
 ### Installation
 
